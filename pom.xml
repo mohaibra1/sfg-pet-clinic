@@ -37,7 +37,7 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <configuration>
                     <goals>install</goals>
-                    <username>mohaibra1</username>
+                    <username>mimohadinho@gmail.com</username>
                     <password>Seanpaul1&amp;</password>
                 </configuration>
             </plugin>
