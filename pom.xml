@@ -42,6 +42,6 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:https://github.com/mohaibra1/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:mohaibra1/sfg-pet-clinic.git</developerConnection>
     </scm>
 </project>
